@@ -6,5 +6,5 @@ element.innerHTML='New value';
 
 var img=document.getElementById('madi');
 img.onClick=function () {
-    img.style.marginLeft='300px';
+    img.style.margiRightt='300px';
 };
