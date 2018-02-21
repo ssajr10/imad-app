@@ -15,7 +15,7 @@ button.onclick = function(){
         
     };
     
-   request.opn('GET','http://salmanashrafsyed.imad.hasura-app.io/',true);
+   request.open('GET','http://salmanashrafsyed.imad.hasura-app.io/',true);
    request.send(null);
     
 };
